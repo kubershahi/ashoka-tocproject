@@ -1,4 +1,4 @@
-# TOC Course Project: Synthesizing DFAs using RNNs
+# Project Details
 
 Presentation Slides: [Presentation01.pdf](https://github.com/kubershahi/ashoka-toc/blob/master/Presentation01.pdf) & [Presentation02.pdf](https://github.com/kubershahi/ashoka-toc/blob/master/Presentation02.pdf)
 
